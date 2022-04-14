@@ -1,1 +1,1 @@
-# DSA
+# This repo contains solution of standard DSA problems .
